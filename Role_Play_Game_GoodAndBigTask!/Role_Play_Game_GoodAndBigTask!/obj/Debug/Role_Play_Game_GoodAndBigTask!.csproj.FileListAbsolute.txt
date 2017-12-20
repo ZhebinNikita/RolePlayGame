@@ -1,0 +1,6 @@
+D:\Programming\Practice\Course_3\Role_Play_Game_GoodAndBigTask!\Role_Play_Game_GoodAndBigTask!\bin\Debug\Role_Play_Game_GoodAndBigTask!.exe.config
+D:\Programming\Practice\Course_3\Role_Play_Game_GoodAndBigTask!\Role_Play_Game_GoodAndBigTask!\bin\Debug\Role_Play_Game_GoodAndBigTask!.exe
+D:\Programming\Practice\Course_3\Role_Play_Game_GoodAndBigTask!\Role_Play_Game_GoodAndBigTask!\bin\Debug\Role_Play_Game_GoodAndBigTask!.pdb
+D:\Programming\Practice\Course_3\Role_Play_Game_GoodAndBigTask!\Role_Play_Game_GoodAndBigTask!\obj\Debug\Role_Play_Game_GoodAndBigTask!.csprojResolveAssemblyReference.cache
+D:\Programming\Practice\Course_3\Role_Play_Game_GoodAndBigTask!\Role_Play_Game_GoodAndBigTask!\obj\Debug\Role_Play_Game_GoodAndBigTask!.exe
+D:\Programming\Practice\Course_3\Role_Play_Game_GoodAndBigTask!\Role_Play_Game_GoodAndBigTask!\obj\Debug\Role_Play_Game_GoodAndBigTask!.pdb
